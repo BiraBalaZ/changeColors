@@ -1,2 +1,2 @@
-# changeColors
- primeiro repositório versionado feito pelo Git e GitHub
+# changeColors v1.0.0
+Adicionando os Inputs em HTML, e adicionando o CSS e JavaScript
